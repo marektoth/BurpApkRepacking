@@ -1,7 +1,7 @@
 # BurpApkRepacking
-### A python script bypassing default CA restrictions in Android
+**A python script bypassing default CA restrictions in Android**
 
-### The APK after repacking is possible to use with Burp Suite on device with Android 7 and above [without ROOT] 
+**The APK after repacking is possible to use with Burp Suite on device with Android 7 and above [without ROOT]**
 
 ## Platforms
 * Mac
