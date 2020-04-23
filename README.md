@@ -25,9 +25,9 @@ apt install openjdk-11-jdk-headless
 
 ```
 python3 burp_apk_repacking.py name.apk
-.
-.
-.
+```
+## Result
+```
 YOUR APK ==> NEW_name.apk
 ```
 ## Processes
